@@ -1,3 +1,3 @@
 # C343Fall2015
 
-Partner: Yitian Zhang
+Partner: Dan Nelson

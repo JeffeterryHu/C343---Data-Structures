@@ -1,6 +1,6 @@
 from utilities import *
 
-# got help from Yitian Zhang, my partner just left earlier in lab and we didn't collaborate together
+# got help from Yitian Zhang
 
 def flood(color_of_tile, flooded_list, screen_size):
     for i in flooded_list:
